@@ -31,7 +31,7 @@
             }
         },
         "studentFilesUrl": {
-            "defaultValue": "https://github.com/nilesh-jy03/MCW-Building-a-resilient-IaaS-architecture/tree/master/Hands-on%20lab/Resources/student-files/studentfiles.zip",
+            "defaultValue": "https://github.com/nilesh-jy03/MCW-Building-a-resilient-IaaS-architecture/raw/master/Hands-on%20lab/Resources/student-files/studentfiles.zip",
             "type": "String"
         },
         "studentFilesDestination": {
